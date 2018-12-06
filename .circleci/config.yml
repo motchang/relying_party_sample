@@ -19,8 +19,8 @@ jobs:
            RAILS_ENV: test
        - image: circleci/postgres:10-alpine-ram
          environment:
-          POSTGRES_USER: identity_provider_sample
-          POSTGRES_DB: identity_provider_sample_test
+          POSTGRES_USER: relying_party_sample
+          POSTGRES_DB: relying_party_sample_test
     working_directory: ~/repo
     steps:
       - checkout
