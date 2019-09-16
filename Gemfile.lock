@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/ctran/annotate_models.git
-  revision: 707e31f5cf290768ad0b9730f671cfb6a0b457b3
+  revision: 6de3ed8050b64cfc99ad0f3867f5a524265f3286
   branch: develop
   specs:
     annotate (3.0.0)
