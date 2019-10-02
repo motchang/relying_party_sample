@@ -1,11 +1,11 @@
 GIT
   remote: https://github.com/ctran/annotate_models.git
-  revision: 988b495a1860b80359ffaed7da61b789c537e557
+  revision: 2f61d9d955548e45d7426660598d14b985bc5020
   branch: develop
   specs:
     annotate (3.0.2)
       activerecord (>= 3.2, < 7.0)
-      rake (>= 10.4, < 13.0)
+      rake (>= 10.4, < 14.0)
 
 GEM
   remote: https://rubygems.org/
