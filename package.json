@@ -2,7 +2,7 @@
   "name": "relying_party_sample",
   "private": true,
   "dependencies": {
-    "@rails/webpacker": "4.0",
+    "@rails/webpacker": "4.2",
     "babel-preset-react": "^6.24.1",
     "prop-types": "^15.7.2",
     "react": "^16.11.0",
