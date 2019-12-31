@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/ctran/annotate_models.git
-  revision: a05e4586925dfd815d9efb27a4f36e99a69c1bc1
+  revision: 3f0b6b327a5d83efbc347c2ae2f9ead0766e7af8
   branch: develop
   specs:
     annotate (3.0.3)
@@ -288,7 +288,7 @@ GEM
     turbolinks (5.2.1)
       turbolinks-source (~> 5.2)
     turbolinks-source (5.2.0)
-    tzinfo (1.2.5)
+    tzinfo (1.2.6)
       thread_safe (~> 0.1)
     uglifier (4.2.0)
       execjs (>= 0.3.0, < 3)
