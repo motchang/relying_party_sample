@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/ctran/annotate_models.git
-  revision: b3aa361fd9756593bb04b85401a7be2761ce8077
+  revision: 27e5965260cfd60d51054bb82aeef3b47ea22c46
   branch: develop
   specs:
     annotate (3.1.1)
@@ -165,7 +165,7 @@ GEM
     mimemagic (0.3.5)
     mini_mime (1.0.2)
     mini_portile2 (2.4.0)
-    minitest (5.14.0)
+    minitest (5.14.1)
     msgpack (1.3.3)
     nio4r (2.5.2)
     nokogiri (1.10.9)
