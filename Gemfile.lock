@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/ctran/annotate_models.git
-  revision: 27e5965260cfd60d51054bb82aeef3b47ea22c46
+  revision: 9099c6277b24f5ddc5e332a2986b05d454108aae
   branch: develop
   specs:
     annotate (3.1.1)
@@ -322,7 +322,7 @@ GEM
     xpath (3.2.0)
       nokogiri (~> 1.8)
     yard (0.9.24)
-    zeitwerk (2.3.0)
+    zeitwerk (2.3.1)
 
 PLATFORMS
   ruby
