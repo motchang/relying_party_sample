@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/ctran/annotate_models.git
-  revision: 9099c6277b24f5ddc5e332a2986b05d454108aae
+  revision: 7d211ddebb95154a30f1b056782dca9ee8e919bc
   branch: develop
   specs:
     annotate (3.1.1)
@@ -151,7 +151,7 @@ GEM
     ffi (1.14.2)
     globalid (0.4.2)
       activesupport (>= 4.2.0)
-    i18n (1.8.5)
+    i18n (1.8.7)
       concurrent-ruby (~> 1.0)
     io-like (0.3.0)
     jbuilder (2.10.1)
