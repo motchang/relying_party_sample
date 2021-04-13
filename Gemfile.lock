@@ -167,7 +167,7 @@ GEM
     minitest (5.14.4)
     msgpack (1.4.2)
     nio4r (2.5.7)
-    nokogiri (1.11.2)
+    nokogiri (1.11.3)
       mini_portile2 (~> 2.5.0)
       racc (~> 1.4)
     orm_adapter (0.5.0)
@@ -262,7 +262,7 @@ GEM
     rubocop-ast (1.4.1)
       parser (>= 2.7.1.5)
     ruby-progressbar (1.11.0)
-    ruby-saml (1.12.1)
+    ruby-saml (1.12.2)
       nokogiri (>= 1.10.5)
       rexml
     rubyzip (2.0.0)
